@@ -1,7 +1,8 @@
 # ShapeshifterAndroidKotlin
 
+ShapeshifterAndroidKotlin is a wrapper for Shadowsocks that makes it available as a Pluggable Transport for Android apps. Shadowsocks is a fast, free, and open-source encrypted proxy project, used to circumvent Internet censorship by utilizing a simple, but effective encryption.
 
-Shadowsocks is a fast, free, and open-source encrypted proxy project, used to circumvent Internet censorship by utilizing a simple, but effective encryption and a shared password. ShadowSwift is a wrapper for Shadowsocks that makes it available as a Pluggable Transport.
+The Shadow transport shapes network traffic to resemble that of the popular shadowsocks proxy tool, but what does that mean? Shadowsocks keeps traffic from being blocked by an adversary by encrypting it. In the terminology of Pluggable Transports, this is known as “scrambling”.
 
 Refer to main branch of the latest code for ShapeshifterAndroidKotlin library - https://github.com/OperatorFoundation/ShapeshifterAndroidKotlin
 
